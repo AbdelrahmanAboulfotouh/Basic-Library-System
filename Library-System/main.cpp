@@ -60,6 +60,8 @@ int main()
     Library_System();
     return 0;
 }
+
+
 void Library_System()
     {
         short int choice;
@@ -141,6 +143,7 @@ void Perfix_search_books()
     string Perfix;
     cin>>Perfix;
     bool f=false;
+    
     for(int i{0};i<B;++i)
         {
            string SUB=SHELFS[i].NAME.substr(0,Perfix.size());
@@ -151,6 +154,7 @@ void Perfix_search_books()
            }
 
         }
+    
  if(f==false)
             cout<<"No books found with this name\n";
 }
