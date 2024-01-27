@@ -1,7 +1,7 @@
 # Library System
 
 
-  ## Main system operations :
+  ## Main system Features :
 
   * Adding books.
   * Adding users.
