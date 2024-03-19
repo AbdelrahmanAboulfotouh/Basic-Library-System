@@ -14,5 +14,3 @@
 
 
 
-### Note that :
-  This was a practical project Associated with " Mastering 4 critical SKILLS using C++ 17 " course by Dr. Moustafa Saad Ibrahim.
